@@ -12,7 +12,7 @@ public class App {
     int nombre = clavier.nextInt();
     clavier.nextLine();
     System.out.print("Entrez un deuxième mot : ");
-    String mot2 = clavier.nextLine();
+    String mot2 = clavier.nextLine(); // comm
     System.out.print("Entrez un adjectif : ");
     String adjectif = clavier.nextLine();
 
